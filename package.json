@@ -1,8 +1,8 @@
 {
   "name": "resume",
   "version": "0.0.0",
-  "repository": "https://github.com/HyunSeob/resume.git",
-  "author": "HyunSeob <mail@hyunseob.me>",
+  "repository": "https://github.com/Hong1008/resume.git",
+  "author": "Hong1008 <zxcbnm6404@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "parcel src/index.html",
