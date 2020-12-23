@@ -117,7 +117,7 @@ ul > li:before {
 
 .container {
   width: 100%;
-  max-width: 50rem;
+  max-width: 73rem;
   margin: auto;
 }
 
@@ -144,7 +144,7 @@ ul > li:before {
 }
 
 .row-left {
-  flex-basis: 18rem;
+  flex-basis: 22rem;
   padding-right: 1rem;
   flex-shrink: 0;
 }
